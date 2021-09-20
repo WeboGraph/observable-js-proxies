@@ -1,6 +1,6 @@
 {
-  "name": "js-proxy-sandbox",
-  "version": "0.0.0",
+  "name": "observable-js-proxies",
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
